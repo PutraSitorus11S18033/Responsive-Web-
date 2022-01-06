@@ -1,0 +1,13 @@
+## SOAL 1
+
+01. Apa itu responsive web design?
+-> adalah tentang membuat html dan css secara otomatis melakukan resize pada website kita, sehingga tampak baik pada semua device.
+02. Sebutkan apa saja relative units yang dimiliki oleh CSS?
+-> yaitu ukurannya ditentukan oleh yang lain, dimana dia diberi panjang dengan ukuran em, ex, ch, rem.
+03. Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut?
+-> Adalah merupakan lebar yang bisa kita costumisasi untuk menentukan bagaimana responsive layout bereaksi antar device atau viewport.
+Dapat dilakukan dengan menggunakan media query baik yang dikostumisasi atau yang dari bawaan framework seperti bootstrap
+04. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 1 dimensi?
+-> Dapat menggunakan margin, padding dan beberapa tag tag flexbox
+05. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 2 dimensi?
+-> Dapat menggunakan flexbox.
